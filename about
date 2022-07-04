@@ -1,0 +1,40 @@
+Random fact bot:
+
+    type in "help" for bot information
+
+    type  in 'fact' for a random fact
+
+    type in 'joke' for a joke
+
+    type in 'trivia' for a general trivia question
+
+    type in an answer to the trivia question and the bot lets you know if your guess is true
+
+    if you cant guess the answer type in "I give up" and the bot gives you the answer
+
+
+About the bot:
+
+    the bot uses api calls to get the jokes, trivia questions and fact. The api makes a call to ninja api
+    
+    each api has its own config file, you will need to change the api key to your own ninja api key
+    
+    and in main you will need to change the bot env token
+
+
+
+
+
+
+what needs to be done:
+
+    better error handling
+    
+    
+    
+
+More:
+
+    please feel free to add more feature to the bot
+
+
