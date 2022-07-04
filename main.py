@@ -81,4 +81,4 @@ async def on_message(message):
 
 
 # gets the discord toke form .env file
-client.run('OTgzMjUyODYwOTcwMDk4NzE4.GDseeH.D6UCuHBIirIQrGE9sUJJkB8QjXkHeNrp9MhxK0')
+client.run('your env for discord')
